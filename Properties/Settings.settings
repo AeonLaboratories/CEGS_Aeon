@@ -1,0 +1,75 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ApplicationNamespace.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="OnColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">169, 209, 159</Value>
+    </Setting>
+    <Setting Name="ErrorColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Yellow</Value>
+    </Setting>
+    <Setting Name="OpenedColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">DarkSeaGreen</Value>
+    </Setting>
+    <Setting Name="OpeningColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">PaleGreen</Value>
+    </Setting>
+    <Setting Name="ClosedColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">IndianRed</Value>
+    </Setting>
+    <Setting Name="ClosingColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">LightSalmon</Value>
+    </Setting>
+    <Setting Name="UnknownColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">179, 179, 179</Value>
+    </Setting>
+    <Setting Name="AppBackColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Silver</Value>
+    </Setting>
+    <Setting Name="OffColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">225, 225, 225</Value>
+    </Setting>
+    <Setting Name="HotColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">255, 217, 159</Value>
+    </Setting>
+    <Setting Name="WarmColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">233, 213, 182</Value>
+    </Setting>
+    <Setting Name="ColdColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">167, 200, 254</Value>
+    </Setting>
+    <Setting Name="CoolColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">172, 219, 234</Value>
+    </Setting>
+    <Setting Name="HighVacuumColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">199, 226, 209</Value>
+    </Setting>
+    <Setting Name="VacuumColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">220, 230, 185</Value>
+    </Setting>
+    <Setting Name="NeutralColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">221, 221, 221</Value>
+    </Setting>
+    <Setting Name="GaugePressureColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">LightGray</Value>
+    </Setting>
+    <Setting Name="FormLocation" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">0, 0</Value>
+    </Setting>
+    <Setting Name="FormSize" Type="System.Drawing.Size" Scope="User">
+      <Value Profile="(Default)">814, 680</Value>
+    </Setting>
+    <Setting Name="WarningColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">255, 255, 160</Value>
+    </Setting>
+    <Setting Name="ClipPressure" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ClipTemperature" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="DevicePopups" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

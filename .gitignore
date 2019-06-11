@@ -1,3 +1,5 @@
 .vs/
 CEGS_Aeon/bin/
 CEGS_Aeon/obj/
+/bin/Debug
+/obj/Debug
